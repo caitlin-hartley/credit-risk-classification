@@ -6,9 +6,11 @@ Training and evaluating a model to assess loan risk using a dataset of historica
 
 ---
 
-[Model]
 
-[Report]
+[Model](https://github.com/caitlin-hartley/credit-risk-classification/blob/main/README.md#creating-and-analyzing-the-model)
+
+[Report](https://github.com/caitlin-hartley/credit-risk-classification/blob/main/README.md#credit-risk-analysis-report)
+
 
 ---
 
@@ -20,13 +22,17 @@ Training and evaluating a model to assess loan risk using a dataset of historica
 - Fited a logistic regression model by using the training data
 - Saved the predictions for the testing data labels by using the testing feature data and the fitted model
 
+
 ![model](https://github.com/caitlin-hartley/credit-risk-classification/blob/main/images/model.png)
+
   
 - Evaluated the model’s performance:
   * Generated a confusion matrix
   * Printed the classification report
+
  
 ![analysis](https://github.com/caitlin-hartley/credit-risk-classification/blob/main/images/analysis.png)
+
 
 
 ---
